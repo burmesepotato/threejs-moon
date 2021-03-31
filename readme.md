@@ -1,5 +1,9 @@
-# Three.js Starter
+# Three.js Moon
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
+
+Following along [YouTube tutorial](https://youtu.be/pUgWfqWZWmM) by DesignCourse 👍
+
+![Screenshot of Project](https://github.com/burmesepotato/threejs-moon/blob/v%231/static/screencap.PNG?raw=true)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
